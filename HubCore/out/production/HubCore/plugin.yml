@@ -1,0 +1,8 @@
+name: HubCore
+main: me.bruceboy.hub.Main
+version: 1.0
+description: Hub Core
+author: bruceboy
+
+commands:
+ help:
